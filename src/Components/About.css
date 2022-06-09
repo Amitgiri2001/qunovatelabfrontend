@@ -1,0 +1,42 @@
+@media only screen and (max-width: 1080px){
+img{
+    width: 100%;
+}
+#datascience img{
+  height: 300px;
+}
+
+}
+
+.ourprograms-headding{
+  font-size: 50px;
+    color: rgb(0, 221, 129);
+font-weight: bolder;
+}
+.ourprograms-headding2{
+  font-weight: bolder;
+    color: rgb(122, 0, 221);
+  font-size: 40px;
+}
+
+.EmbeddedSystemRobotics{
+  margin-top: 100px;
+}
+.EmbeddedSystemRobotics img{
+width: 100%;
+
+}
+.InternetofThings img{
+  width: 100%;
+}
+
+.virtualprograms h1{
+font-weight: bolder;
+}
+.virtualprogramsimg img{
+
+width: 100%;
+}
+.virtualprogramsimg img:hover{
+  filter: grayscale(100%);
+}
